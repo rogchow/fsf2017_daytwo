@@ -1,0 +1,22 @@
+{
+  "name": "roger",
+  "version": "1.0.0",
+  "description": "fsf2017_day2 project",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogchow/fsf2017_daytwo.git"
+  },
+  "author": "roger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogchow/fsf2017_daytwo/issues"
+  },
+  "homepage": "https://github.com/rogchow/fsf2017_daytwo#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
